@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the gorest application","get user with name, email, gender, status and userID","FAILURE","2023-01-10T20:52:09.194Z[Europe/London]","0.0","12.79"
+"Testing different request on the gorest application","Create a new user & verify if the user is added","FAILURE","2023-01-10T20:52:25.006Z[Europe/London]","0.0","1.22"
+"Testing different request on the gorest application","Check if the name, email, is updated for the userID","FAILURE","2023-01-10T20:52:26.312Z[Europe/London]","0.0","0.46"
+"Testing different request on the gorest application","Check the user is deleted successfully","FAILURE","2023-01-10T20:52:26.844Z[Europe/London]","0.0","0.43"

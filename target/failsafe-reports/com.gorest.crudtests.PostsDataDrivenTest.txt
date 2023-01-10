@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gorest.crudtests.PostsDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.721 sec <<< FAILURE! - in com.gorest.crudtests.PostsDataDrivenTest
+createNewPostForUsers(com.gorest.crudtests.PostsDataDrivenTest)  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.crudtests.PostsDataDrivenTest.createNewPostForUsers(PostsDataDrivenTest.java:46)
+
